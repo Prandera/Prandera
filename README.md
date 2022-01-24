@@ -1,10 +1,10 @@
 # Welcome!
 
-## I’m Lucas Prando, aka @Prandera 👋
+## I’m Lucas Prando,
 
 - Graduating in Systems Analysis and Development at Faculdade de Tecnologia de Botucatu (FATEC).
-- I'm currently learning Kotlin.
-- I love games, series and books.
+- Currently learning Java and Kotlin.
+- And i love video-games, series, movies, beer and books.
 
 
 ## About me
