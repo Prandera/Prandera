@@ -3,7 +3,7 @@
 ## I’m Lucas Prando,
 
 - Graduating in Systems Analysis and Development at Faculdade de Tecnologia de Botucatu (FATEC).
-- Currently learning Java at [DIO](dio.me).
+- Currently learning Java at [DIO](https://www.dio.me/).
 - And i love video-games, series, movies, beer and books.
 
 
